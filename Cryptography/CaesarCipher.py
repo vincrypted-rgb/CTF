@@ -1,3 +1,6 @@
+message = input("What's the message?")
+shift = int(input("Shift by how many?")
+
 def caesar(text, shift):
     result = ""
     for ch in text:
@@ -8,3 +11,4 @@ def caesar(text, shift):
         else:
             result += ch
     return result
+print(caesar(message, shift))
