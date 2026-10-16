@@ -7,6 +7,7 @@ This gives the remainder after division.
 My first thought, upon learning this is "where are we dividing?" And lo and behold, we're not! We're subtracting!!! (...????)
 
 (ConfusedNickYoung.jpeg)
+
 (PedroPascalLaughingThenCrying.mp4) 
 ###### note: that's my sense of humor, not missing media.
 
