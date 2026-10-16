@@ -9,7 +9,7 @@ My first thought, upon learning this is "where are we dividing?" And lo and beho
 (ConfusedNickYoung.jpeg)
 (PedroPascalLaughingThenCrying.mp4) 
 
-####### note: that's my sense of humor, not missing media.
+###### note: that's my sense of humor, not missing media.
 
 The idea with modulo is that you subtract the base value as many times as you can before you go negative, and then take the remainder/number equaling the distance to 0 as your answer.
 
