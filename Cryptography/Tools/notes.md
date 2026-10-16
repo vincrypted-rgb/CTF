@@ -1,10 +1,12 @@
 ```ord & chr```
+
 ord("a") gives you the ASCII decimal value (97, in this case)
 chr(97) gives you the letter character of the number ("a" in this case)
 
 built in python function, which saves me from making an A1Z26 cypher heartemoji.
 
 ```% 26```
+
 % is called **modulo**. 
 
 This gives the remainder after division.
