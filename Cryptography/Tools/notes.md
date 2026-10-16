@@ -20,9 +20,13 @@ The idea with modulo is that you subtract the base value as many times as you ca
 
 ### An example:
 > Let's say we have a shifted value of 55, and we need to figure out the character that goes with it.
-> There are 26 letters in the alphabet.
+> 
+> There are 26 letters in the English alphabet, giving us our base.
 > 
 > 55-26 = 29
+> 
 > 29-26 = 3
+> 
 > 3-26 = -23 ####🚫 **too far**
+> 
 > 55 % 26 = 2 remainder 3 --> 3
