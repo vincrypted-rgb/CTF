@@ -1,8 +1,12 @@
 ```ord & chr```
+ord("a") gives you the ASCII decimal value (97, in this case)
+chr(97) gives you the letter character of the number ("a" in this case)
 
+built in python function, which saves me from making an A1Z26 cypher heartemoji.
 
 ```% 26```
 % is called **modulo**. 
+
 This gives the remainder after division.
 My first thought, upon learning this is "where are we dividing?" And lo and behold, we're not! We're subtracting!!! (...????)
 
@@ -10,7 +14,7 @@ My first thought, upon learning this is "where are we dividing?" And lo and beho
 
 (PedroPascalLaughingThenCrying.mp4) 
 ###### note: that's my sense of humor, not missing media.
-
+***
 The idea with modulo is that you subtract the base value as many times as you can before you go negative, and then take the remainder/number equaling the distance to 0 as your answer.
 
 ### An example:
